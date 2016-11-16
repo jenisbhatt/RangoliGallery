@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "987460007753",
+    "firebase_url": "https://rangoli-design-76715.firebaseio.com",
+    "project_id": "rangoli-design-76715",
+    "storage_bucket": "rangoli-design-76715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987460007753:android:53a8451297b8cea3",
+        "android_client_info": {
+          "package_name": "in.rangoligallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987460007753-em879roreogk7cfn1gsdbfj80un4es41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAfmKyC7Apmq6CSxuYEqfrUGUCWrCwqaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

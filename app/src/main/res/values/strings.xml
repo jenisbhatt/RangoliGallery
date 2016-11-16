@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rangoli Design</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_network_gallery">NetworkGalleryActivity</string>
+    <string name="title_activity_sd_card_gallery">SdCardGalleryActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Rangoli_Interstitial_TestId">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="Rangoli_Interstitial_LiveId">ca-app-pub-2991962843896451/5801155323</string>
+
+
+    <string name="Rangoli_Banner_TestId">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="Rangoli_Banner_LiveId">ca-app-pub-2991962843896451/4324422125</string>
+
+    <string name="Rangoli_Native_LiveId">ca-app-pub-2991962843896451/7277888527</string>
+
+
+</resources>
